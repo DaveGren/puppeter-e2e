@@ -1,0 +1,9 @@
+{
+    "name": "e2e",
+    "dependencies": {
+        "puppeteer": "^3.0.4"
+    },
+    "scripts": {
+        "test": "node test.js"
+    }
+}
